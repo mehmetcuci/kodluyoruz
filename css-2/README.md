@@ -1,2 +1,2 @@
-# Kodluyoruz Css Bölümü İkinci Ödev
+# Kodluyoruz CSS Bölüm 2
 ![Proje resmi](img/proje.png)
